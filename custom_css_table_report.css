@@ -49,7 +49,7 @@
 }
 
 .reportTable th {
-  color: #00a664;
+  color: #000000;
   border: 1px solid #CCCCCC; 
   border-bottom: 1px solid #CCCCCC !important;
   /* font-size: 10px;  */
@@ -58,10 +58,12 @@
 
   /* Add customization here  */
 
+   background-color: #00a664
+    
 }
 
 .reportTable td {
-  color: #00a664;
+  color: #000000;
   vertical-align: super;
   padding: 5px;
   /*background: #FFFFFF;*/
@@ -69,6 +71,8 @@
   border-collapse: collapse;
 
   /* Add customization here  */
+    
+  background-color: #00a664
 
 }
 
